@@ -1,0 +1,54 @@
+/* 
+    Document   : style_admin
+    Created on : Dec 25, 2012, 12:46:29 PM
+    Author     : Red-sky
+    Description:
+        Admin style CSS.
+*/
+@import url('http://fonts.googleapis.com/css?family=Great+Vibes');
+body{
+    max-height: 300px;
+}
+input[type="text"]{
+    height: 30px !important;
+}
+.row{
+    margin-bottom: 5px !important;
+}
+label{
+    display: inline!important;
+}
+#admin_tabs{
+    margin-top: -22px;
+}
+hr{
+    border-top-color: #ddd!important; 
+}
+#myTabContent{
+    padding-top: 15px;
+}
+#myTab{
+    margin-left: -2px;
+}
+#myTab li{
+    font-size: 20px;
+}
+#myTab li a{
+    padding: 75px 10px;
+
+}
+#exportcode{
+    display: none;
+}
+#copybtn{
+    display: none;
+}
+#theme_options_title{
+    font-family: 'Great Vibes', cursive;
+    font-size: 45px;
+    text-shadow: 1px 1px 0px #1D1919;
+    font-weight: 400;
+    margin-bottom: 20px;
+    line-height: 1.4em;
+    padding-top: 10px;
+}

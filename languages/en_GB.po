@@ -1,0 +1,413 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: en_GB\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-13 13:01+0300\n"
+"PO-Revision-Date: 2013-02-13 13:04+0300\n"
+"Last-Translator: Anatolii <bivol@red-sky.pl>\n"
+"Language-Team: redsky <support@winithemes.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:16
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: archive.php:18
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: archive.php:24
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: archive.php:31
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:33
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:35
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:37
+msgid "Archives"
+msgstr ""
+
+#: archive.php:51
+msgid "by "
+msgstr ""
+
+#: archive.php:62
+#: search.php:34
+#: home.php:26
+#: single.php:29
+msgid "read "
+msgstr ""
+
+#: archive.php:63
+#: search.php:35
+#: home.php:27
+#: single.php:30
+msgid "more "
+msgstr ""
+
+#: search.php:18
+msgid "Search Results for : "
+msgstr ""
+
+#: search.php:46
+msgid "No results found for "
+msgstr ""
+
+#: home.php:38
+#: footer.php:69
+msgid "No posts to display"
+msgstr ""
+
+#: home.php:54
+msgid "Next"
+msgstr ""
+
+#: home.php:55
+msgid "Prev"
+msgstr ""
+
+#: about.php:13
+#: index.php:23
+#: contact.php:13
+#: page.php:23
+msgid "Enter your e-mail address"
+msgstr ""
+
+#: about.php:14
+#: index.php:24
+#: contact.php:14
+#: page.php:24
+msgid "To be notify about our launch"
+msgstr ""
+
+#: index.php:19
+#: page.php:19
+msgid "It will be available for you:"
+msgstr ""
+
+#: footer.php:12
+msgid "News"
+msgstr ""
+
+#: footer.php:13
+msgid "Contact"
+msgstr ""
+
+#: footer.php:21
+msgid "Latest news :"
+msgstr ""
+
+#: footer.php:44
+msgid "No News..."
+msgstr ""
+
+#: footer.php:49
+msgid "Full description :"
+msgstr ""
+
+#: contact.php:71
+msgid "Write us:"
+msgstr ""
+
+#: comments.php:31
+msgid "Leave a reply "
+msgstr ""
+
+#: comments.php:38
+msgid "This post is password protected. Enter the password to view any comments "
+msgstr ""
+
+#: comments.php:59
+msgid "Comments are closed"
+msgstr ""
+
+#: functions.php:102
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:336
+msgid "MyCountdown Options"
+msgstr ""
+
+#: functions.php:351
+msgid "Set featured image"
+msgstr ""
+
+#: functions.php:351
+msgid "Set featured image (recommended width must be at least 630px)"
+msgstr ""
+
+#: functions.php:390
+msgid "Options successfully saved"
+msgstr ""
+
+#: functions.php:399
+#: functions.php:735
+msgid "Save Options"
+msgstr ""
+
+#: functions.php:407
+msgid "Main"
+msgstr ""
+
+#: functions.php:408
+msgid "Footer"
+msgstr ""
+
+#: functions.php:409
+msgid "Subscription"
+msgstr ""
+
+#: functions.php:419
+msgid "Website Logo"
+msgstr ""
+
+#: functions.php:423
+msgid "Enter your website logo here"
+msgstr ""
+
+#: functions.php:429
+msgid "Or link of image logo here"
+msgstr ""
+
+#: functions.php:435
+msgid "Or caption of image logo here (See documentation)"
+msgstr ""
+
+#: functions.php:440
+#: functions.php:461
+#: functions.php:775
+msgid "Note :"
+msgstr ""
+
+#: functions.php:440
+msgid "If you entered the caption, it will be taken as logo ignoring the first two fields. If you entered the link, the first field will be ignored."
+msgstr ""
+
+#: functions.php:446
+msgid "Website favicon"
+msgstr ""
+
+#: functions.php:450
+msgid "Link to the favicon here"
+msgstr ""
+
+#: functions.php:456
+msgid "Or caption of the uploaded favicon here (See documentation)"
+msgstr ""
+
+#: functions.php:461
+msgid " If you entered the caption, it will be taken as favicon ignoring the first field."
+msgstr ""
+
+#: functions.php:467
+msgid "Date From"
+msgstr ""
+
+#: functions.php:471
+msgid "Enter the date from which the counter starts counting."
+msgstr ""
+
+#: functions.php:476
+msgid "Date To"
+msgstr ""
+
+#: functions.php:480
+msgid "Enter the date at which the counter stops counting."
+msgstr ""
+
+#: functions.php:485
+msgid "Display Social Bar"
+msgstr ""
+
+#: functions.php:494
+msgid "Show facebook social icon"
+msgstr ""
+
+#: functions.php:503
+msgid "Facebook URL"
+msgstr ""
+
+#: functions.php:507
+msgid "Enter yout facebook profile url here http://facebook.com/yourprofileurl"
+msgstr ""
+
+#: functions.php:512
+msgid "Show googleplus social icon"
+msgstr ""
+
+#: functions.php:521
+msgid "GooglePlus URL"
+msgstr ""
+
+#: functions.php:525
+msgid "Enter your googleplus url here"
+msgstr ""
+
+#: functions.php:530
+msgid "Show twitter social icon"
+msgstr ""
+
+#: functions.php:539
+msgid "Twitter ID"
+msgstr ""
+
+#: functions.php:552
+msgid "Number of latest tweets"
+msgstr ""
+
+#: functions.php:557
+msgid "Show Flickr social icon"
+msgstr ""
+
+#: functions.php:566
+msgid "Flickr URL"
+msgstr ""
+
+#: functions.php:570
+msgid "Enter your dribble nickname here"
+msgstr ""
+
+#: functions.php:579
+msgid "Enable Paralax Footer"
+msgstr ""
+
+#: functions.php:588
+msgid "Show Copyright"
+msgstr ""
+
+#: functions.php:597
+msgid "Copyright Text"
+msgstr ""
+
+#: functions.php:601
+msgid "Enter your copyright text here"
+msgstr ""
+
+#: functions.php:607
+msgid "About Us Title"
+msgstr ""
+
+#: functions.php:611
+#: functions.php:631
+msgid "Enter the about us section title here"
+msgstr ""
+
+#: functions.php:616
+msgid "About Us Text"
+msgstr ""
+
+#: functions.php:621
+msgid "Insert about us content here."
+msgstr ""
+
+#: functions.php:627
+msgid "Contact Us Title"
+msgstr ""
+
+#: functions.php:636
+msgid "Contact Us E-Mail"
+msgstr ""
+
+#: functions.php:640
+msgid "Enter your email here"
+msgstr ""
+
+#: functions.php:645
+msgid "Contact Us Phone"
+msgstr ""
+
+#: functions.php:649
+#: functions.php:668
+msgid "Enter your phone number here"
+msgstr ""
+
+#: functions.php:654
+msgid "Show Contact Form"
+msgstr ""
+
+#: functions.php:664
+msgid "Map Title"
+msgstr ""
+
+#: functions.php:673
+msgid "Show Google Map"
+msgstr ""
+
+#: functions.php:682
+msgid "Google Map Code"
+msgstr ""
+
+#: functions.php:687
+msgid "Insert google map code content here (See documentation for help)."
+msgstr ""
+
+#: functions.php:692
+msgid "Show Address"
+msgstr ""
+
+#: functions.php:701
+msgid "Address"
+msgstr ""
+
+#: functions.php:706
+msgid "Address that will be displayed in the footer."
+msgstr ""
+
+#: functions.php:714
+msgid "Subscriber e-mail"
+msgstr ""
+
+#: functions.php:717
+msgid "Subscribtion Date"
+msgstr ""
+
+#: functions.php:775
+msgid " If you pressed the \"Import default demo options\" button accidently just reload the page without saving the options."
+msgstr ""
+
+#: functions.php:796
+msgid "Color"
+msgstr ""
+
+#: functions.php:804
+msgid "Site Color"
+msgstr ""
+
+#: functions.php:925
+msgid "Page"
+msgstr ""
+
+#: single.php:40
+msgid "Tags: "
+msgstr ""
+
+#: widgets/archives_widget.php:22
+msgid "Title:"
+msgstr ""
+

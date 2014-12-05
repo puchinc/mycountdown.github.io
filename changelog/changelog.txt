@@ -1,0 +1,15 @@
+Version 1.3 - Updated: 27.09.2013
+================================================
+Added	:	TT Security check
+
+Version 1.2.1 - Updated: 27.06.2013
+================================================
+Fixed	:	Twitter not showing up
+
+Version 1.2 - Updated: 27.06.2013
+================================================
+Added	:	Twitter new API support 
+
+Version 1.0.0 - Initial Release: 13.01.2013
+================================================
+-
